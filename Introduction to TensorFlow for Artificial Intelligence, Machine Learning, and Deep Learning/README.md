@@ -9,7 +9,7 @@
 
 
 ## Week 3 - Enchancing Vision with Convolutional Neural Networks
-- [Programming Assignment: Exercise 3 (Improve MNIST with convolutions)](https://github.com/ShiekhSolihah/Coursera-Courses/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203%20-%20Enchancing%20Vision%20with%20Convolutional%20Neural%20Networks/Excercise-3-Question.ipynb)
+- [Programming Assignment: Exercise 3 (Improve MNIST with convolutions)](https://github.com/ShiekhSolihah/Coursera-Courses/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203%20-%20Enchancing%20Vision%20with%20Convolutional%20Neural%20Networks/C1W3_Assignment.ipynb)
 
 ## Week 4 - Using Real-world Images
 - [Programming Assignment: Exercise 4 (Handling complex images)](https://github.com/ShiekhSolihah/Coursera-Courses/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%204%20-%20Using%20Real-world%20Images/Exercise4-Question.ipynb)
